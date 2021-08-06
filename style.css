@@ -6,3 +6,22 @@ body {
   text-align: center;
   background: ;
 }
+
+.box1 {
+  width: 100px;
+  height: 100px;
+  background: #ff9900;
+  border-radius: 50px;
+}
+.box2 {
+  width: 25px;
+  height: 100px;
+  background: #006a4e;
+  border-radius: 50px;
+}
+.box3 {
+}
+.box4 {
+}
+.box5 {
+}
