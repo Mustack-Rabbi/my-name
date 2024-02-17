@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,Star Jalsha HD
-http://humiptv.live:8080/live/nbw319/gur538/23218.m3u8
-#EXTINF:-1 ,Jalsha movies HD
-http://humiptv.live:8080/live/nbw319/gur538/23304.m3u8
-#EXTINF:-1 ,Zee Bangla HD
-http://humiptv.live:8080/live/nbw319/gur538/23305.m3u8
-#EXTINF:-1 ,Sun Bangla HD
-http://humiptv.live:8080/live/nbw319/gur538/3753.m3u8
+#EXTINF:-1 ,Star Jalsha HD http://humiptv.live:8080/live/nbw319/gur538/23218.m3u8
+#EXTINF:-1 ,Jalsha movies HD http://humiptv.live:8080/live/nbw319/gur538/23304.m3u8
+#EXTINF:-1 ,Zee Bangla HD http://humiptv.live:8080/live/nbw319/gur538/23305.m3u8
+#EXTINF:-1 ,Sun Bangla HD http://humiptv.live:8080/live/nbw319/gur538/3753.m3u8
 #EXTINF:-1 ,TV9 Bangla
 http://humiptv.live:8080/live/nbw319/gur538/3804.m3u8
 #EXTINF:-1 ,Sony aath HD
